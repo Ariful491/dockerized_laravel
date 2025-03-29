@@ -1,2 +1,5 @@
 /.idea
 /mysql/*.key
+/.vscode
+/.DS_Store
+mysql
